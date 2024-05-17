@@ -1,0 +1,7 @@
+Configura dos simulaciones:
+A ambos les puse el mismo numero de nucleos 4 y unidades de tiempo 10, 5, 7, 3, 2
+esto son las principales diferencias y ventajas de cada uno expresado en algoritmos de planificacion
+SQMS: SQMS utiliza una cola única para todos los procesos y distribuye el trabajo entre las CPUs disponibles.
+MQMS: MQMS utiliza múltiples colas, una por CPU, para distribuir el trabajo.
+
+
