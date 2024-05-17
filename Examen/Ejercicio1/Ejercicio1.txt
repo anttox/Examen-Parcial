@@ -6,6 +6,7 @@ Pregunta2:
 Usando el parametro clave de la tasa de calentamiento con la bandera -r podemos predecir que tan rapido se ejecutara el trabajo en la cache ya que cada trabajo tiene una cola central al usar "-r 2" o "-r 1" se puede visualizar que el planificador central 2 calienta mas la CPu pro el tiempo de finalizacion que es de 20 comparado con la cola central 1 que es de 30. Esto se da que mientras el tamaño del conjunto de trabajo sea mayor sobrecargara mas la maquina como el planificador central 0.
 
 Pregunta3:
+El tiempo que esta pasando al lado es simplemente el tiempo que queda en espera al terminar cada trabajo.
 
 Pregunta4: 
 En el trabajo numero 9 se empieza a calentar al "-C", todos los trabajos se calientan, significa que va a estar trabajando al maximo con la CPU en cada trabajo.
